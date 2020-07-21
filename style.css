@@ -278,28 +278,28 @@ margin-left:20px
 }
 
 /*リクルート*/
-div#recruitwap{
+.recruitwap{
 background-color:#ffffff;
 }
 
-div#recruit{
+.recruit{
 margin-bottom:0;
-background-image: url(recruit.jpg);
 background-size: cover;
-text-align:center;
+position:relative;
+wide:1200px;
 }
-
-div#recruittext{
-background-color:rgba(255,255,255,0.5);
-width:1200px;
-padding-top:200px;
-padding-bottom:50px
+.recruit img{
+width: 100%;
 }
-
-div#recruit p{
-text-align:center;
+.recruit p{
 font-size:12px;
-margin-left:10px
+margin-left:10px;
+position: absolute;
+top:50%;
+left:40%;
+text-align:center;
+margin:0;
+padding:0;
 }
 
 div#arbeit{
