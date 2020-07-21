@@ -285,21 +285,10 @@ background-color:#ffffff;
 .recruit{
 margin-bottom:0;
 background-size: cover;
-position:relative;
-wide:1200px;
 }
+
 .recruit img{
 width: 100%;
-}
-.recruit p{
-font-size:12px;
-margin-left:10px;
-position: absolute;
-top:50%;
-left:40%;
-text-align:center;
-margin:0;
-padding:0;
 }
 
 div#arbeit{
